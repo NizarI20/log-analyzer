@@ -1,0 +1,7 @@
+INFO Server started
+ERROR Unable to connect to database
+WARNING Disk space low
+INFO User logged in
+ERROR Timeout occurred
+INFO Scheduled task completed
+WARNING High memory usage
